@@ -1,5 +1,5 @@
 # Exploring-Weather-Trends
-This project was completed as part of the course requirements of Udacity's Data Analyst Nanodegree certification [https://www.udacity.com/course/data-analyst-nanodegree--nd002]
+This project was completed as part of the course requirements of Udacity's [Data Analyst Nanodegree certification](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 
 ### Overview: ###
 I have been provided the temperature database from where I have extracted the data related to global temperature and my city temperature (Baltimore). I analyzed the temperature around the global with the city I live by extracting the data from thedatabase.
